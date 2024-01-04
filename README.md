@@ -1,4 +1,4 @@
-# Basic-hearing-test-sheet-Object-detection
+# AUDIOMETRY-Object-detection
 Work to create an automated AI assistant in a bioimaging center.
 
 ## Project Objective.
