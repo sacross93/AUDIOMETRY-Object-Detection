@@ -1,0 +1,8 @@
+# Source Data Directory
+Otorhinolaryngology/
+
+# Pycharm Enviroments
+.env
+.venv
+env/
+venv/
