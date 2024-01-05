@@ -7,3 +7,4 @@ ssimuCode/
 .venv
 env/
 venv/
+.vscode/

@@ -1,0 +1,7 @@
+
+train: ssimuCode/cropped_graph/train/images
+val: ssimuCode/cropped_graph/val/images
+test: ssimuCode/cropped_graph/test/images
+
+nc: 9  # 클래스 개수
+names: ['O', '<', '[', '세모', 'X', '>', ']', 'ㅁ', 'S']
